@@ -31,13 +31,14 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jekyll-remote-theme
 
-remote_theme: sighingnow/jekyll-gitbook
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
