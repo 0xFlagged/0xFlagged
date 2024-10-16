@@ -15,12 +15,12 @@ github_username:  jekyll
 
 # Build settings
 # Remova o tema anterior e adicione o Hacker Theme como tema remoto
-theme: minima
+theme: jekyll-theme-hacker
 
-plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jekyll-remote-theme # Necessário para suportar temas remotos
+#plugins:
+ # - jekyll-feed
+ # - jekyll-readme-index
+ # - jekyll-remote-theme # Necessário para suportar temas remotos
 
 # Exclude from processing.
 # As seguintes pastas ou arquivos não serão processados
