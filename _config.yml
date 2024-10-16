@@ -15,7 +15,7 @@ github_username:  jekyll
 
 # Build settings
 # Remova o tema anterior e adicione o Hacker Theme como tema remoto
-remote_theme: pages-themes/hacker@v0.2.0
+theme: hacker
 
 plugins:
   - jekyll-feed
